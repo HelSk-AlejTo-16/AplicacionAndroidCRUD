@@ -1,0 +1,27 @@
+<resources>
+    <!-- Colores principales -->
+    <color name="colorPrimary">#B71C1C</color> <!-- Rojo oscuro -->
+    <color name="colorPrimaryDark">#8B0000</color> <!-- Rojo más oscuro -->
+    <color name="colorAccent">#757575</color> <!-- Gris medio -->
+    <color name="colorSecondary">#9E9E9E</color> <!-- Gris claro -->
+
+    <!-- Colores de texto -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Blanco (texto sobre rojo) -->
+    <color name="colorOnSecondary">#000000</color> <!-- Negro (texto sobre gris) -->
+    <color name="colorOnBackground">#000000</color> <!-- Negro (texto sobre fondo blanco) -->
+    <color name="colorOnSurface">#000000</color> <!-- Negro (texto sobre superficie blanca) -->
+
+    <!-- Colores de fondo y superficie -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Blanco -->
+    <color name="colorSurface">#F5F5F5</color> <!-- Blanco grisáceo -->
+
+    <!-- Colores adicionales -->
+    <color name="colorError">#FF0000</color> <!-- Rojo para errores -->
+
+
+    <!-- Colores para el tema oscuro -->
+    <color name="colorBackgroundDark">#121212</color> <!-- Fondo oscuro -->
+    <color name="colorSurfaceDark">#1E1E1E</color> <!-- Superficie oscura -->
+    <color name="colorOnBackgroundDark">#FFFFFF</color> <!-- Blanco (texto sobre fondo oscuro) -->
+    <color name="colorOnSurfaceDark">#FFFFFF</color> <!-- Blanco (texto sobre superficie oscura) -->
+</resources>

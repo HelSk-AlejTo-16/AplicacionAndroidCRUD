@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AplicacionCrudII" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/colorPrimary</item> <!-- Rojo oscuro -->
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item> <!-- Rojo más oscuro -->
+        <item name="colorOnPrimary">@color/colorOnPrimary</item> <!-- Blanco (texto sobre rojo) -->
+
+        <!-- Colores secundarios -->
+        <item name="colorSecondary">@color/colorSecondary</item> <!-- Gris claro -->
+        <item name="colorSecondaryVariant">@color/colorAccent</item> <!-- Gris medio -->
+        <item name="colorOnSecondary">@color/colorOnSecondary
+        </item> <!-- Negro (texto sobre gris) -->
+
+        <!-- Colores de fondo y superficie -->
+        <item name="android:colorBackground">@color/colorBackground</item> <!-- Blanco -->
+        <item name="colorSurface">@color/colorSurface</item> <!-- Blanco grisáceo -->
+        <item name="colorOnBackground">@color/colorOnBackground
+        </item> <!-- Negro (texto sobre fondo blanco) -->
+        <item name="colorOnSurface">@color/colorOnSurface
+        </item> <!-- Negro (texto sobre superficie blanca) -->
+
+        <!-- Colores adicionales -->
+        <item name="colorError">@color/colorError</item> <!-- Rojo para errores -->
+
+
+        <!-- Configuraciones adicionales -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant
+        </item> <!-- Color de la barra de estado -->
+        <item name="android:navigationBarColor">?attr/colorPrimary
+        </item> <!-- Color de la barra de navegación -->
+        <item name="android:windowLightStatusBar">false
+        </item> <!-- Texto oscuro en la barra de estado -->
+        <item name="android:windowLightNavigationBar">false
+        </item> <!-- Texto oscuro en la barra de navegación -->
+    </style>
+</resources>
